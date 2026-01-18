@@ -1,0 +1,21 @@
+# Git and VS Code / Codespaces
+.git
+.gitignore
+.vscode
+.devcontainer
+
+# Python cache files
+__pycache__
+*.pyc
+
+# Notebook and training files 
+.ipynb_checkpoints
+notebook.ipynb
+train.py
+test.py
+
+# Data 
+data/
+
+# Other
+README.md
