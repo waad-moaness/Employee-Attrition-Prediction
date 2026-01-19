@@ -8,7 +8,7 @@ Unlike a simple descriptive analysis, this project treats the problem as a **Bin
 
 ## 2. Dataset Description
 
-The project utilizes the **IBM HR Analytics Employee Attrition & Performance** dataset, which consists of demographic and job-related data for approximately 1,470 employees.
+The project utilizes the **IBM HR Analytics Employee Attrition & Performance** dataset, which consists of demographic and job-related data for approximately 1,500 employees.
 
 * **Source:** [Kaggle: IBM HR Employee Attrition](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 * **Type:** Structured Tabular Data.
