@@ -105,12 +105,12 @@ The models were evaluated using **ROC AUC (Area Under the Curve)** to measure ho
 
 1.  **Build the Docker image:**
     ```bash
-    docker build -t Employee-Attrition-Prediction .
+    docker build -t employee-attrition-prediction .
     ```
 
 2.  **Run the container:**
     ```bash
-    docker run -p 9696:9696 Employee-Attrition-Prediction
+    docker run -p 9696:9696 employee-attrition-prediction
     ```
 
 ## 6. API Usage Example
