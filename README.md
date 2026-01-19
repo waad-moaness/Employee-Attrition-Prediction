@@ -166,7 +166,13 @@ The model expects a JSON payload containing the employee's details.
 
 * **Feature Engineering:** Create interaction features (e.g., `Income / Age` ratio) or binning for `Age` to capture non-linear generational trends.
 * **Threshold Tuning:** Instead of the default 0.5 threshold, optimize the decision threshold to recall more "At Risk" employees (minimizing False Negatives), as losing talent is expensive.
+* **Cloud Deployment:** Deploy the containerized service to AWS Lambda or Google Cloud Run for serverless scalability.* **Threshold Tuning:** Instead of the default 0.5 threshold, optimize the decision threshold to recall more "At Risk" employees (minimizing False Negatives), as losing talent is expensive.
 * **Cloud Deployment:** Deploy the containerized service to AWS Lambda or Google Cloud Run for serverless scalability.
 
 
 ## Demo Video
+
+
+https://github.com/user-attachments/assets/ee5b29c3-17a7-479d-814d-e99fbf57eccb
+
+
